@@ -323,10 +323,14 @@
         <mxCell id="Gr0Zq-AI6Quabplr0KPa-248" style="edgeStyle=none;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryPerimeter=0;endArrow=classicThin;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=none;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=12;rounded=0;startSize=8;endSize=8;curved=1;" parent="Gr0Zq-AI6Quabplr0KPa-179" source="Gr0Zq-AI6Quabplr0KPa-238" target="Gr0Zq-AI6Quabplr0KPa-247" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IHW-vLLeg-DANp0r2GpM-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="IHW-vLLeg-DANp0r2GpM-4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="421" y="439" as="sourcePoint" />
-            <mxPoint x="471" y="389" as="targetPoint" />
+            <mxPoint x="421" y="324" as="sourcePoint" />
+            <mxPoint x="471" y="274" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="471" y="324" />
+              <mxPoint x="421" y="274" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
